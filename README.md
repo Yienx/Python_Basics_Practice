@@ -1,3 +1,2 @@
 # Python_Basics_Practice
-
-This is a practice file on Python Basic for Data Science. 
+This directory contains practice exercises in Python, Pandas and Pandas DataFrame
